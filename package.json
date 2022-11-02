@@ -1,0 +1,21 @@
+{
+  "name": "test_deploy_heroku_app",
+  "version": "1.0.0",
+  "description": "test heroku app deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "heroku"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.5-lts.1"
+  }
+}
